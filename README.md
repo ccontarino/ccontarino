@@ -1,4 +1,6 @@
 ### Hi there 👋
+![visitors](https://komarev.com/ghpvc/?username=ccontarino&label=Visitors)
+
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 <!--
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
