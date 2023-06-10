@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontarino&hide_progress=true&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats-ccontarino.vercel.app/api/top-langs/?username=ccontarino&hide_progress=true&show_icons=true&count_private=true)
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 
 <!--
