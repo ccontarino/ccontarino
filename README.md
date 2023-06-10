@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Readme Card]([[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true))]([https://github.com/ccontarino/github-readme-stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ccontarino&repo=github-readme-stats)](https://github.com/ccontarino/github-readme-stats)
+
 <!--
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
