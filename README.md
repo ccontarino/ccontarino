@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontarino&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccontarino&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccontarino&show_icons=true](https://github-readme-stats-ccontarino)
 
 
 <!--
