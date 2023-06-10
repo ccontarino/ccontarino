@@ -10,7 +10,10 @@ I'm Chris. I love building utilities aimed at increasing Developer productivity 
 
 <a href="https://www.linkedin.com/in/christian-contarino/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
+  <a href="mailto:ccontarino@gmail.com?subject=Hi Chris!">
+     <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;  
 <!--
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/christian-contarino)
