@@ -27,8 +27,10 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 
 <h3 align="center">Knowledge in technologies</h3>
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nextjs,php,laravel,tailwind,mongodb,figma,ps,postman)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,reduxregex,webpack,workers" />
 
+</div>
 
 
 <!--
