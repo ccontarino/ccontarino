@@ -26,9 +26,8 @@ In addition to my proficiency in these technologies, I am also comfortable worki
 I am always seeking new challenges and opportunities to continue growing in the world of frontend and mobile development. I am excited to share my experiences and knowledge with all of you. Thank you!
 
 
-
-
-
+<h3 align="center">Knowledge in technologies</h3>
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nextjs,php,laravel,tailwind,mongodb,figma,ps,postman)
 
 
 
