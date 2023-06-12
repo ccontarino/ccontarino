@@ -28,7 +28,7 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 <h3 align="center">Knowledge in technologies</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,mysql,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,redux,regex,webpack,workers,raspberrypi,angular,apollo,graphql,gulp,nextjs,jest,tailwind,vercel,postgres,jenkins,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,mysql,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,redux,regex,webpack,workers,raspberrypi,angular,apollo,graphql,gulp,nextjs,jest,tailwind,vercel,postgres,jenkins,docker,aws,gcp" />
 
 </div>
 
