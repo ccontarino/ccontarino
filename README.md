@@ -31,7 +31,11 @@ I am always seeking new challenges and opportunities to continue growing in the 
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,mysql,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,redux,regex,webpack,workers,raspberrypi,angular,apollo,graphql,gulp,nextjs,jest,tailwind,vercel,postgres,jenkins,docker,aws,gcp" />
 
 </div>
-![Top Langs](https://github-readme-stats-ccontarino.vercel.app/api/top-langs/?username=ccontarino&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontarino&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
+
+</div>
 
 <!--
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
