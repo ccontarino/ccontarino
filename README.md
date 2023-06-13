@@ -6,14 +6,17 @@ I'm Chris. I love building frontend and mobile apps :raised_hands:
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 [](https://www.linkedin.com/in/christian-contarino/)
 
-📫 How to reach me:
-
+<div align="center">
+<div>
+     📫 How to reach me:&nbsp;&nbsp; 
+</div>
 <a href="https://www.linkedin.com/in/christian-contarino/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ccontarino@gmail.com?subject=Hi Chris!">
      <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;  
+     </div>
 <h1 align="center">
  I introduce myself.  🖥️
 </h1>
