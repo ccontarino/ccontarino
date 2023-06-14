@@ -2,7 +2,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=ccontarino&label=Visitors)
 
 I'm Chris. I love building frontend and mobile apps :raised_hands: 
-
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 [](https://www.linkedin.com/in/christian-contarino/)
 
