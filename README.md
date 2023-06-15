@@ -3,9 +3,6 @@
 
 I'm Chris. I love building frontend and mobile apps :raised_hands: 
 
-![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
-[](https://www.linkedin.com/in/christian-contarino/)
-
 <div align="center">
 <div>
      📫 How to reach me:&nbsp;&nbsp; 
@@ -41,6 +38,8 @@ I am always seeking new challenges and opportunities to continue growing in the 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontarino&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
 
 </div>
+![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
+[](https://www.linkedin.com/in/christian-contarino/)
 
 <!--
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
