@@ -40,6 +40,8 @@ I am always seeking new challenges and opportunities to continue growing in the 
 </div>
 
 <!--
+![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
+[](https://www.linkedin.com/in/christian-contarino/)
 **ccontarino/ccontarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/christian-contarino)
 Here are some ideas to get you started:
