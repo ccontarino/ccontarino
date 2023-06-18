@@ -7,7 +7,6 @@ I'm Chris. I love building frontend and mobile apps :raised_hands:
 <div>
      📫 How to reach me:&nbsp;&nbsp; 
 </div>
-     
 <a href="https://www.linkedin.com/in/christian-contarino/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
