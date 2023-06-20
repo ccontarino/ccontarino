@@ -15,7 +15,6 @@ I'm Chris. I love building frontend and mobile apps :raised_hands:
   </a>&nbsp;&nbsp;  
      </div>
 <h1 align="center">
-     
  I introduce myself.  🖥️
 </h1>
 Hello everyone!, I am a passionate frontend and mobile developer with experience in the most popular technologies. I've had the privilege of working at two Latin American unicorns, where I applied my skills in React and React Native to create stunning and functional user interfaces.
