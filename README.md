@@ -39,6 +39,8 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 <H1> What is a squash on merge?</H3>
 <image src=https://github.com/ccontarino/ccontarino/blob/main/squash_merge.gif/>
+<H1> What is a fast-forward merge?</H3>
+<image src=https://github.com/ccontarino/ccontarino/blob/main/what_is_forward_merge.gif/>
 
 <!--
 <H1> Gitflow workflow</H3>
