@@ -24,7 +24,6 @@ In addition to my proficiency in these technologies, I am also comfortable worki
 
 I am always seeking new challenges and opportunities to continue growing in the world of frontend and mobile development. I am excited to share my experiences and knowledge with all of you. Thank you!
 
-
 <h3 align="center">Knowledge in technologies</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,mysql,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,redux,regex,webpack,workers,raspberrypi,angular,apollo,graphql,gulp,nextjs,jest,tailwind,vercel,postgres,jenkins,docker,aws,gcp" />
@@ -32,7 +31,6 @@ I am always seeking new challenges and opportunities to continue growing in the 
 </div>
 
 &nbsp;&nbsp; 
-
 <div align="center">
 <image src=https://github.com/ccontarino/ccontarino/blob/main/github-contribution-grid-snake.svg/>
 </div>
