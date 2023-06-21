@@ -31,16 +31,20 @@ I am always seeking new challenges and opportunities to continue growing in the 
 </div>
 
 &nbsp;&nbsp; 
+<H1> What is a Rebase?</H3>
+<image src=https://github.com/ccontarino/ccontarino/blob/main/687474703a2f2f692e696d6775722e636f6d2f3568725431534f2e676966.gif/>
+
+
+<!--
+<H1> Gitflow workflow</H3>
+<image src=https://github.com/ccontarino/ccontarino/blob/main/68747470733a2f2f692e696d6775722e636f6d2f6332725a7935452e676966.gif/>
 <div align="center">
 <image src=https://github.com/ccontarino/ccontarino/blob/main/github-contribution-grid-snake.svg/>
-
+</div>
 <H3> Gitflow workflow</H3>
 <image src=https://github.com/ccontarino/ccontarino/blob/main/68747470733a2f2f692e696d6775722e636f6d2f6332725a7935452e676966.gif/>
 
 </div>
-
-<!--
-
 --![](https://github.com/ccontarino/ccontarino/blob/main/github-contribution-grid-snake.svg)
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 [](https://www.linkedin.com/in/christian-contarino/)
