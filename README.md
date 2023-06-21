@@ -33,7 +33,7 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 &nbsp;&nbsp; 
 <div align="center">
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ccontarino/ccontarino/github-contribution-grid-snake.svg)
 </div>
 
 <!--
