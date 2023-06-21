@@ -33,8 +33,7 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 &nbsp;&nbsp; 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccontarino&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
-
+![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
