@@ -31,6 +31,9 @@ I am always seeking new challenges and opportunities to continue growing in the 
 </div>
 
 &nbsp;&nbsp; 
+<H1> What is a merge?</H3>
+<image src=https://github.com/ccontarino/ccontarino/blob/main/merge.gif/>
+
 <H1> What is a Rebase?</H3>
 <image src=https://github.com/ccontarino/ccontarino/blob/main/687474703a2f2f692e696d6775722e636f6d2f3568725431534f2e676966.gif/>
 
