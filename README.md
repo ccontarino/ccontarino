@@ -33,9 +33,9 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 &nbsp;&nbsp; 
 <div align="center">
+</div>
 ![Snake animation](https://github.com/ccontarino/ccontarino/blob/main/github-contribution-grid-snake.svg)
 
-</div>
 <!--
 ![Chris's GitHub stats](https://github-readme-stats-ccontarino.vercel.app/api?username=ccontarino&show_icons=true&count_private=true)
 [](https://www.linkedin.com/in/christian-contarino/)
