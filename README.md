@@ -1,6 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=ccontarino&label=Visitors)
 
-I'm Chris from Argentina 🇦🇷. I love building frontend and mobile apps :raised_hands: 
+I'm Chris from Argentina 🇦🇷. I love building frontend and mobile apps  :raised_hands: 
 
 <div align="center">
 <div>
