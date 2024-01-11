@@ -16,7 +16,7 @@ I'm Chris from Argentina  🇦🇷. I love building frontend and mobile apps  <i
 <h1 align="center">
  I introduce myself.  🖥️
 </h1>
-Hello everyone!, I am a passionate frontend and mobile developer with experience in the most popular technologies. I've had the privilege of working at two Latin American unicorns, where I applied my skills in React and React Native to create stunning and functional user interfaces.
+Hello everyone!, I am a passionate frontend and mobile engineer with experience in the most popular technologies. I've had the privilege of working at two Latin American unicorns, where I applied my skills in React and React Native to create stunning and functional user interfaces.
 
 In addition to my experience in Latin America, I've also had the opportunity to work at American companies, which has given me a global perspective and the ability to adapt to different work environments. Throughout my professional journey, I have worked with a wide range of technologies such as React, React Native, JavaScript, Node.js, Sass, CSS, Next.js, and Nest.js.
 
