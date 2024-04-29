@@ -29,6 +29,8 @@ I am always seeking new challenges and opportunities to continue growing in the 
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nodejs,nextjs,java,tailwind,mongodb,mysql,figma,ps,postman,jquery,kubernetes,linux,materialui,maven,nestjs,nginx,redux,regex,webpack,workers,raspberrypi,angular,apollo,graphql,gulp,nextjs,jest,tailwind,vercel,postgres,jenkins,docker,aws,gcp" />
 
 </div>
+&nbsp;&nbsp; 
+<image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/>
 
 &nbsp;&nbsp; 
 <H1> What is a merge?</H3>
