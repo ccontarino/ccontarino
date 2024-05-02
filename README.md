@@ -35,7 +35,6 @@ I am always seeking new challenges and opportunities to continue growing in the 
 <img src="images/http_methods.gif" alt="Http Methods" width="65%" height="65%">
 <img src="images/api_security.gif" alt="Docker Works" width="65%" height="65%">
 <img src="images/docker_work.gif" alt="Docker Works" width="65%" height="65%">
-<img src="images/rest_api_authentication.gif" alt="REST API" width="65%" height="65%">
 <img src="images/rest_api_authentication.gif" alt="rest api authentication" width="65%" height="65%">
 <img src="images/acid_means.gif" alt="ACID MEANS" width="65%" height="65%">
 <img src="images/osi_model.gif" alt="OSI MODEL" width="65%" height="65%">
