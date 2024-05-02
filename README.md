@@ -32,20 +32,21 @@ I am always seeking new challenges and opportunities to continue growing in the 
 &nbsp;&nbsp; 
 <!-- <image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/> -->
 
-![Http Methods](images/http_methods.gif)
-![Docker Works](images/docker_work.gif)
-![REST API](images/rest_api_authentication.gif)
-![rest api authentication](images/rest_api_authentication.gif)
-![ACID MEANS](images/acid_means.gif)
-![OSI MODEL](images/osi_model.gif)
-![Linux file system](images/linux_file_permission.jpeg)
-![Login Tracing](images/loggin-tracing.gif)
-![JWT](images/JWT.gif)
-![REDIS](images/redis.jpeg)
-![Linux Performance](images/linux_performance.jpeg)
-![How Companies ship code](images/how_companies_ship_codes.gif)
-![data structures databases](images/data_structures_databases.jpeg)
-![Queues](images/queues_evolve.gif)
+<img src="images/http_methods.gif" alt="Http Methods" width="65%" height="65%">
+<img src="images/docker_work.gif" alt="Docker Works" width="65%" height="65%">
+<img src="images/rest_api_authentication.gif" alt="REST API" width="65%" height="65%">
+<img src="images/rest_api_authentication.gif" alt="rest api authentication" width="65%" height="65%">
+<img src="images/acid_means.gif" alt="ACID MEANS" width="65%" height="65%">
+<img src="images/osi_model.gif" alt="OSI MODEL" width="65%" height="65%">
+<img src="images/linux_file_permission.jpeg" alt="Linux file system" width="65%" height="65%">
+<img src="images/loggin-tracing.gif" alt="Login Tracing" width="65%" height="65%">
+<img src="images/JWT.gif" alt="JWT" width="65%" height="65%">
+<img src="images/redis.jpeg" alt="REDIS" width="65%" height="65%">
+<img src="images/linux_performance.jpeg" alt="Linux Performance" width="65%" height="65%">
+<img src="images/how_companies_ship_codes.gif" alt="How Companies ship code" width="65%" height="65%">
+<img src="images/data_structures_databases.jpeg" alt="data structures databases" width="65%" height="65%">
+<img src="images/queues_evolve.gif" alt="Queues" width="65%" height="65%">
+
 
 <!-- &nbsp;&nbsp;
 <H1> What is a merge?</H3>
