@@ -1,6 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=ccontarino&label=Visitors)
 
-I'm Chris from Argentina  🇦🇷. I love building frontend and mobile apps <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> 
+I'm Chris from Argentina 🇦🇷. I love building frontend and mobile apps <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <div align="center">
 <div>
@@ -30,9 +30,24 @@ I am always seeking new challenges and opportunities to continue growing in the 
 
 </div>
 &nbsp;&nbsp; 
-<image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/>
+<!-- <image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/> -->
 
-&nbsp;&nbsp; 
+![Http Methods](images/http_methods.gif)
+![Docker Works](images/docker_work.gif)
+![REST API](images/rest_api_authentication.gif)
+![rest api authentication](images/rest_api_authentication.gif)
+![ACID MEANS](images/acid_means.gif)
+![OSI MODEL](images/osi_model.gif)
+![Linux file system](images/linux_file_permission.jpeg)
+![Login Tracing](images/loggin-tracing.gif)
+![JWT](images/JWT.gif)
+![REDIS](images/redis.jpeg)
+![Linux Performance](images/linux_performance.jpeg)
+![How Companies ship code](images/how_companies_ship_codes.gif)
+![data structures databases](images/data_structures_databases.jpeg)
+![Queues](images/queues_evolve.gif)
+
+<!-- &nbsp;&nbsp;
 <H1> What is a merge?</H3>
 <image src=https://github.com/ccontarino/ccontarino/blob/main/merge.gif/>
 
@@ -42,7 +57,7 @@ I am always seeking new challenges and opportunities to continue growing in the 
 <H1> What is a squash on merge?</H3>
 <image src=https://github.com/ccontarino/ccontarino/blob/main/squash_merge.gif/>
 <H1> What is a fast-forward merge?</H3>
-<image src=https://github.com/ccontarino/ccontarino/blob/main/what_is_forward_merge.gif/>
+<image src=https://github.com/ccontarino/ccontarino/blob/main/what_is_forward_merge.gif/> -->
 
 <!--
 <H1> Gitflow workflow</H3>
