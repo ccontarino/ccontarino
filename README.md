@@ -32,7 +32,9 @@ I am always seeking new challenges and opportunities to continue growing in the 
 &nbsp;&nbsp; 
 <!-- <image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/> -->
 
+<img src="images/http_status_code.gif" alt="Http Methods" width="65%" height="65%">
 <img src="images/http_methods.gif" alt="Http Methods" width="65%" height="65%">
+<img src="images/best_way_to_test.gif" alt="best way to test" width="65%" height="65%">
 <img src="images/api_security.gif" alt="Docker Works" width="65%" height="65%">
 <img src="images/docker_work.gif" alt="Docker Works" width="65%" height="65%">
 <img src="images/rest_api_authentication.gif" alt="rest api authentication" width="65%" height="65%">
