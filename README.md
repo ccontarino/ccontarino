@@ -31,8 +31,6 @@ I am always seeking new challenges and opportunities to continue growing in the 
 </div>
 &nbsp;&nbsp; 
 <!-- <image src=https://github.com/ccontarino/ccontarino/blob/main/http_methods.gif/> -->
-
-<img src="images/http_status_code.gif" alt="Http Methods" width="65%" height="65%">
 <img src="images/http_methods.gif" alt="Http Methods" width="65%" height="65%">
 <img src="images/best_way_to_test.gif" alt="best way to test" width="65%" height="65%">
 <img src="images/api_security.gif" alt="Docker Works" width="65%" height="65%">
@@ -48,8 +46,10 @@ I am always seeking new challenges and opportunities to continue growing in the 
 <img src="images/how_companies_ship_codes.gif" alt="How Companies ship code" width="65%" height="65%">
 <img src="images/data_structures_databases.jpeg" alt="data structures databases" width="65%" height="65%">
 <img src="images/queues_evolve.gif" alt="Queues" width="65%" height="65%">
+<img src="images/http_status_code.gif" alt="Http Methods" width="65%" height="65%">
 <img src="images/system_design.gif" alt="Queues" width="65%" height="65%">
-<img src="images/software_architectural_patters.gif" alt="Queues" width="65%" height="65%">
+<img src="images/software_architectural_patterns.gif" alt="Queues" width="65%" height="65%">
+<img src="images/aws_cloud_services_cheat_sheet.gif" alt="Http Methods" width="65%" height="65%">
 
 
 <!-- &nbsp;&nbsp;
